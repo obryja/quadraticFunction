@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {{> head }}
+    <script>
+        var taskId = "{{ taskId }}";
+    </script>
+    <script src="/js/task.js" defer></script>
+</head>
+<body>
+    {{> nav}}
+    <div class="main">
+        <div class="task">
+            <div class="task__info">
+                <h4 class="task__when"></h4>
+                <h2 class="task__num"></h2>
+                <h4 class="task__points"></h4>
+            </div>
+            <div class="task__content"></div>
+            <button class="btn" onclick="show_answer()">Pokaż odpowiedź</button>
+            <div class="task__answer"></div>
+        </div>
+    </div>
+</body>
+</html>
