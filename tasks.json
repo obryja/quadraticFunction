@@ -1,0 +1,251 @@
+[{
+  "_id": {
+    "$oid": "629e214f59b5e871ae85dd08"
+  },
+  "num": 29,
+  "points": 2,
+  "when": "maj 2021",
+  "content": "<p>Rozwiąż nierówność: <br>𝑥² − 5𝑥 ≤ 14</p>",
+  "answer": "𝑥 ∈ ⟨−2, 7⟩",
+  "closed": false
+},{
+  "_id": {
+    "$oid": "629e214f59b5e871ae85dd09"
+  },
+  "num": 12,
+  "points": 1,
+  "when": "maj 2021",
+  "content": "<p>Funkcja kwadratowa 𝑓 określona wzorem 𝑓(𝑥) = −2(𝑥 + 1)(𝑥 − 3) jest malejąca w przedziale </p><p class=\"odp\"><span>A. ⟨1, +∞)</span><span>B. (−∞, 1⟩</span><span>C. (−∞, −8⟩</span><span>D. ⟨−8, +∞)</span></p>",
+  "answer": "A",
+  "closed": true
+},{
+  "_id": {
+    "$oid": "62af25195e9a659dc652bd05"
+  },
+  "num": 7,
+  "points": 1,
+  "when": "maj 2020",
+  "content": "<img src='/img/ex79052020.png' alt='dane do zadania'><p>Współczynnik a we wzorze funkcji f jest równy </p><p class=\"odp\"><span>A. 1</span><span>B. 2</span><span>C. -2</span><span>D. -1</span></p>",
+  "answer": "D",
+  "closed": true
+},{
+  "_id": {
+    "$oid": "62af29695e9a659dc652bd0b"
+  },
+  "num": 8,
+  "points": 1,
+  "when": "maj 2020",
+  "content": "<img src='/img/ex79052020.png' alt='dane do zadania'><p>Największa wartość funkcji f w przedziale 1, 4 jest równa  </p><p class=\"odp\"><span>A. -3</span><span>B. 0</span><span>C. 1</span><span>D. 2</span></p>",
+  "answer": "C",
+  "closed": true
+},{
+  "_id": {
+    "$oid": "62af29695e9a659dc652bd0c"
+  },
+  "num": 9,
+  "points": 1,
+  "when": "maj 2020",
+  "content": "<img src='/img/ex79052020.png' alt='dane do zadania'><p>Osią symetrii paraboli będącej wykresem funkcji f jest prosta o równaniu </p><p class=\"odp\"><span>A. x = 1</span><span>B. x = 2</span><span>C. y = 1</span><span>D. y = 2</span></p>",
+  "answer": "B",
+  "closed": true
+},{
+  "_id": {
+    "$oid": "62af29695e9a659dc652bd0d"
+  },
+  "num": 10,
+  "points": 1,
+  "when": "maj 2020",
+  "content": "<p>Równanie x(x-2) = (x-2)² w zbiorze liczb rzeczywistych</p><p class=\"odp\"><span>A. nie ma rozwiązań.</span><span>B. ma dokładnie jedno rozwiązanie: x = 2.</span><span>C. ma dokładnie jedno rozwiązanie: x = 0.</span><span>D. ma dwa różne rozwiązania: x = 1 i x = 2.</span></p>",
+  "answer": "B",
+  "closed": true
+},{
+  "_id": {
+    "$oid": "62af2b5e5e9a659dc652bd0f"
+  },
+  "num": 8,
+  "points": 1,
+  "when": "maj 2019",
+  "content": "<img src='/img/ex810052019.png' alt='dane do zadania'><p>Zbiorem wartości funkcji f jest przedział</p><p class=\"odp\"><span>A. (−∞,, 0⟩</span><span>B. ⟨0, 4⟩ </span><span>C. ⟨-4, +∞)</span><span>D. ⟨4, +∞)</span></p>",
+  "answer": "C",
+  "closed": true
+},{
+  "_id": {
+    "$oid": "62af2b5e5e9a659dc652bd10"
+  },
+  "num": 9,
+  "points": 1,
+  "when": "maj 2019",
+  "content": "<img src='/img/ex810052019.png' alt='dane do zadania'><p>Największa wartość funkcji f w przedziale <1, 4> jest równa </p><p class=\"odp\"><span>A. -3</span><span>B. -4</span><span>C. 4</span><span>D. 0</span></p>",
+  "answer": "D",
+  "closed": true
+},{
+  "_id": {
+    "$oid": "62af2b5e5e9a659dc652bd11"
+  },
+  "num": 10,
+  "points": 1,
+  "when": "maj 2019",
+  "content": "<img src='/img/ex810052019.png' alt='dane do zadania'><p>Osią symetrii wykresu funkcji f jest prosta o równaniu</p><p class=\"odp\"><span>A. y = -4</span><span>B. x = -4</span><span>C. y = 2</span><span>D. x = 2</span></p>",
+  "answer": "D",
+  "closed": true
+},{
+  "_id": {
+    "$oid": "62af2e4d5e9a659dc652bd13"
+  },
+  "num": 6,
+  "points": 1,
+  "when": "maj 2018",
+  "content": "<p>Funkcja kwadratowa jest określona wzorem f(x) = -2(x+3)(x-5). Liczby x1, x2 są różnymi miejscami zerowymi funkcji f. Zatem </p><p class=\"odp\"><span>A. ⟨x1 + x2 = −8</span><span>B. x1 + x2 = -2</span><span>C. x1 + x2 = 2</span><span>D. x1 + x2 = 8</span></p>",
+  "answer": "C",
+  "closed": true
+},{
+  "_id": {
+    "$oid": "62af2e4d5e9a659dc652bd14"
+  },
+  "num": 9,
+  "points": 1,
+  "when": "maj 2018",
+  "content": "<p>Wykresem funkcji kwadratowej f(x) = x² - 6x - 3 jest parabola, której wierzchołkiem jest punkt o współrzędnych  </p><p class=\"odp\"><span>A. (-6, -3)</span><span>B. (-6, 69)</span><span>C. (3, -12)</span><span>D. (6, -3)</span></p>",
+  "answer": "C",
+  "closed": true
+},{
+  "_id": {
+    "$oid": "62af2fec5e9a659dc652bd16"
+  },
+  "num": 10,
+  "points": 1,
+  "when": "maj 2016",
+  "content": "<img src='/img/ex1011052016.png' alt='dane do zadania'><p>Zbiorem wartości funkcji f jest przedział </p><p class=\"odp\"><span>A. (−∞, 2></span><span>B. <-2, 4></span><span>C. <4, +∞)</span><span>D. (-∞, 9></span></p>",
+  "answer": "D",
+  "closed": true
+},{
+  "_id": {
+    "$oid": "62af2fec5e9a659dc652bd17"
+  },
+  "num": 11,
+  "points": 1,
+  "when": "maj 2016",
+  "content": "<img src='/img/ex1011052016.png' alt='dane do zadania'><p>Najmniejsza wartość funkcji f w przedziale <−1, 2> jest równa </p><p class=\"odp\"><span>A. 2</span><span>B. 5</span><span>C. 8</span><span>D. 9</span></p>",
+  "answer": "B",
+  "closed": true
+},{
+  "_id": {
+    "$oid": "62af30925e9a659dc652bd19"
+  },
+  "num": 11,
+  "points": 1,
+  "when": "maj 2015",
+  "content": "<p>Funkcja kwadratowa określona jest wzorem f(x) = x² + x + c. Jeżeli f(3) = 4, to</p><p class=\"odp\"><span>A. f(1) = -6</span><span>B. f(1) = 0</span><span>C. f(1) = 6</span><span>D. f(1) = 18</span></p>",
+  "answer": "A",
+  "closed": true
+},{
+  "_id": {
+    "$oid": "62af503513cb1edde8656c95"
+  },
+  "num": 11,
+  "points": 5,
+  "when": "maj 2021 R",
+  "content": "<p>Wyznacz wszystkie wartości parametru 𝑚, dla których trójmian kwadratowy<br>4𝑥² − 2(𝑚+1)𝑥+𝑚<br>ma dwa różne pierwiastki rzeczywiste 𝑥ଵ oraz 𝑥ଶ, spełniające warunki:<br>𝑥1 ≠ 0, 𝑥2 ≠ 0 oraz 𝑥1 + 𝑥2 ≤ 1/x1 + 1/x2</p>",
+  "answer": "𝑚 ∈ (−∞, −1⟩ ∪ (0, 1) ∪ (1, 4⟩.",
+  "closed": false
+},{
+  "_id": {
+    "$oid": "62af503513cb1edde8656c96"
+  },
+  "num": 26,
+  "points": 2,
+  "when": "maj 2020",
+  "content": "<p>Rozwiąż nierówność <br>2(x−1)(x+3) > x−1.</p>",
+  "answer": "x∈(−∞;−5/2)∪(1;+∞)",
+  "closed": false
+},{
+  "_id": {
+    "$oid": "62af503513cb1edde8656c97"
+  },
+  "num": 11,
+  "points": 4,
+  "when": "maj 2020 R",
+  "content": "Dane jest równanie kwadratowe <b>x² - (3m+2)x + 2m² + 7m - 15 = 0</b> z niewiadomą x. Wyznacz wszystkie wartości parametru m, dla których różne rozwiązania x1 i x2 tego równania istnieją i spełniają warunek<br>2x1² + 5x1x2 + 2x2² = 2",
+  "answer": "m = − 9/5 , m = 1/4 ",
+  "closed": false
+},{
+  "_id": {
+    "$oid": "62af503513cb1edde8656c98"
+  },
+  "num": 26,
+  "points": 2,
+  "when": "maj 2018",
+  "content": "<p>Rozwiąż nierówność <br>2x² - 3x > 5.</p>",
+  "answer": "x∈(−∞;−1)∪(5/2;+∞)",
+  "closed": false
+},{
+  "_id": {
+    "$oid": "62af503513cb1edde8656c99"
+  },
+  "num": 12,
+  "points": 6,
+  "when": "maj 2018 R",
+  "content": "<p>Wyznacz wszystkie wartości parametru m, dla których równanie x² + (m+1)x − m² + 1 = 0  ma dwa rozwiązania rzeczywiste x1  i x 2  (x1 ≠ x2) , spełniające warunek x1^3 + x2^3 > − 7x1x2 .</p>",
+  "answer": " m ∈ (−∞ ,−3)∪ (3/5, 3/4)",
+  "closed": false
+},{
+  "_id": {
+    "$oid": "62af503513cb1edde8656c9a"
+  },
+  "num": 12,
+  "points": 5,
+  "when": "maj 2017 R",
+  "content": "<p>Wyznacz wszystkie wartości parametru m , dla których równanie<br>4x² − 6mx + (2m + 3)(m − 3) = 0<br>ma dwa różne rozwiązania rzeczywiste x1  i x2 , przy czym x1 < x2 , spełniające warunek<br>(4x1 − 4x2 − 1)(4x1 − 4x2 + 1) < 0. </p>",
+  "answer": " m ∈ (-13/2, -6) ∪ (-6, -11/2)",
+  "closed": false
+},{
+  "_id": {
+    "$oid": "62af503513cb1edde8656c9b"
+  },
+  "num": 12,
+  "points": 6,
+  "when": "maj 2016 R",
+  "content": "<p>Dany jest trójmian kwadratowy <br> f(x) = x² + 2(m+1)x + 6m + 1.<br>Wyznacz wszystkie rzeczywiste wartości parametru m, dla których ten trójmian ma dwa różne pierwiastki x1, x2  tego samego znaku, spełniające warunek<br>|x1 − x2| < 3.</p>",
+  "answer": "m ∈ (−1/6, 0) ∪ (4, 9/2)",
+  "closed": false
+},{
+  "_id": {
+    "$oid": "62af503513cb1edde8656c9c"
+  },
+  "num": 26,
+  "points": 2,
+  "when": "maj 2015",
+  "content": "<p>Rozwiąż nierówność: <br> 2x² - 4x > (x+3)(x-2).</p>",
+  "answer": "x∈(−∞;2)∪(3;+∞)",
+  "closed": false
+},{
+  "_id": {
+    "$oid": "62af503513cb1edde8656c9d"
+  },
+  "num": 29,
+  "points": 2,
+  "when": "maj 2015",
+  "content": "<p>Oblicz najmniejszą i największą wartość funkcji kwadratowej f(x) = x² − 6x + 3 w przedziale ⟨0;4⟩. </p>",
+  "answer": "Najmniejszą wartością jest −6. Największą wartością jest 3.",
+  "closed": false
+},{
+  "_id": {
+    "$oid": "62af503513cb1edde8656c9e"
+  },
+  "num": 7,
+  "points": 2,
+  "when": "maj 2015 R",
+  "content": "<p>Liczby (−1) i 3 są miejscami zerowymi funkcji kwadratowej f. Oblicz -f(6)/f(12).</p>",
+  "answer": "7/39",
+  "closed": false
+},{
+  "_id": {
+    "$oid": "62af503513cb1edde8656c9f"
+  },
+  "num": 13,
+  "points": 5,
+  "when": "maj 2015 R",
+  "content": "<p>Dany jest trójmian kwadratowy<br>f(x) = (m+1)x + 2(m−2)x − m + 4<br>Wyznacz wszystkie wartości parametru m, dla których trójmian f ma dwa różne pierwiastki rzeczywiste x1, x2 , spełniające warunek<br> x1²− x2² = x1^4− x2^4</p>",
+  "answer": "m = (12 + √109) / 5",
+  "closed": false
+}]
