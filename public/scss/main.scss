@@ -84,6 +84,40 @@ body{
     }
 }
 
+/***************** index *****************/
+
+.index{
+    p, li{
+        font-size: 1.25em;
+        line-height: 150%;
+    }
+}
+
+.frac {
+    display: inline-block;
+    position: relative;
+    vertical-align: middle;
+    letter-spacing: 0.001em;
+    text-align: center;
+
+    & > span {
+        display: block;
+        padding: 0.1em;
+    }
+
+    span.bottom {
+        border-top: thin solid black;
+    }
+
+    span.symbol {
+        display: none;
+    } 
+}
+
+.sqrt{
+    text-decoration: overline;
+}
+
 /***************** tasks *****************/
 
 .tasks{
